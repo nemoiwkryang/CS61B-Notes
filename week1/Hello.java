@@ -1,4 +1,7 @@
-/**
+/*
+
+This is Lec1
+
 java --javac--> class --java--> interpreted
 var & loop like cpp
 integer /float number/ string +string -> string
