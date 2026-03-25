@@ -7,7 +7,7 @@ like dog1 dog2 dog...,
 the difference of static/instant
 static cannot access instant var
 invoke static methods/var using class name
-invoke instant methods/var using instance name
+invoke instant methods/var only using instance name
 
 why all in classes and static?
 offer fewer ways to do things
